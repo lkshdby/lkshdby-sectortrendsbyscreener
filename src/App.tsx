@@ -7,6 +7,7 @@ import {
 } from './types';
 import { generateHistoricalSeedSnapshots } from './data/seedData';
 import { computeSectorComparison } from './utils/dataProcessor';
+import { loadSnapshotsLocally, saveSnapshotsLocally } from './utils/storage';
 import { Header } from './components/Header';
 import { MetricSelector } from './components/MetricSelector';
 import { ResolutionSelector } from './components/ResolutionSelector';
@@ -18,21 +19,11 @@ import { SchedulerModal } from './components/SchedulerModal';
 import { MarketSummaryCards } from './components/MarketSummaryCards';
 import { Activity, AlertCircle, BarChart3, CheckCircle2, Table } from 'lucide-react';
 
-const LOCAL_STORAGE_KEY = 'screener_industry_snapshots_v1';
-
 export default function App() {
   const [snapshots, setSnapshots] = useState<DailySnapshot[]>(() => {
-    // Initial local storage check or seed
-    try {
-      const saved = localStorage.getItem(LOCAL_STORAGE_KEY);
-      if (saved) {
-        const parsed = JSON.parse(saved);
-        if (Array.isArray(parsed) && parsed.length > 0) {
-          return parsed;
-        }
-      }
-    } catch {
-      // ignore
+    const saved = loadSnapshotsLocally();
+    if (saved && saved.length > 0) {
+      return saved;
     }
     return generateHistoricalSeedSnapshots('2025-08-20', '2026-08-22');
   });
@@ -93,7 +84,7 @@ export default function App() {
 
     if (loadedData && loadedData.length > 0) {
       setSnapshots(loadedData);
-      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(loadedData));
+      saveSnapshotsLocally(loadedData);
       const latest = loadedData[loadedData.length - 1].date;
       setSelectedDate(latest);
     }
@@ -129,11 +120,7 @@ export default function App() {
   // Sync to local storage & backend
   const syncSnapshots = async (newSnapshots: DailySnapshot[]) => {
     setSnapshots(newSnapshots);
-    try {
-      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(newSnapshots));
-    } catch {
-      // ignore
-    }
+    saveSnapshotsLocally(newSnapshots);
 
     try {
       await fetch('/api/data', {

@@ -5,11 +5,16 @@ import { scrapeScreenerMarket } from './screenerScraper';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const DATA_FILE = path.join(DATA_DIR, 'screener_industry_data.json');
+const PUBLIC_DATA_FILE = path.join(process.cwd(), 'public', 'data', 'snapshots.json');
 const LOG_FILE = path.join(DATA_DIR, 'scheduler_logs.txt');
 
-// Ensure directory exists
+// Ensure directories exist
 if (!fs.existsSync(DATA_DIR)) {
   fs.mkdirSync(DATA_DIR, { recursive: true });
+}
+const publicDataDir = path.dirname(PUBLIC_DATA_FILE);
+if (!fs.existsSync(publicDataDir)) {
+  fs.mkdirSync(publicDataDir, { recursive: true });
 }
 
 let cachedSnapshots: DailySnapshot[] = [];
@@ -39,7 +44,13 @@ export function persistSnapshots(snapshots: DailySnapshot[]) {
       }
     });
     const uniqueSnapshots = Array.from(dateMap.values()).sort((a, b) => a.date.localeCompare(b.date));
-    fs.writeFileSync(DATA_FILE, JSON.stringify(uniqueSnapshots, null, 2), 'utf-8');
+    const jsonStr = JSON.stringify(uniqueSnapshots, null, 2);
+    fs.writeFileSync(DATA_FILE, jsonStr, 'utf-8');
+    try {
+      fs.writeFileSync(PUBLIC_DATA_FILE, jsonStr, 'utf-8');
+    } catch {
+      // ignore
+    }
     cachedSnapshots = uniqueSnapshots;
   } catch (err) {
     console.error('Failed to write snapshots to disk:', err);

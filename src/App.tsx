@@ -59,25 +59,46 @@ export default function App() {
     setTimeout(() => setToastMessage(null), 4000);
   };
 
-  // Load from backend server if available
+  // Load from backend server or static CDN
   const loadDataFromServer = async () => {
+    let loadedData: DailySnapshot[] | null = null;
+
+    // 1. Try Express backend API
     try {
       const res = await fetch('/api/data');
       if (res.ok) {
         const json = await res.json();
         if (json.success && Array.isArray(json.data) && json.data.length > 0) {
-          setSnapshots(json.data);
-          localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(json.data));
-          // Set to latest date
-          const latest = json.data[json.data.length - 1].date;
-          setSelectedDate(latest);
+          loadedData = json.data;
         }
       }
-    } catch (err) {
-      console.log('Server not reachable, running client-side data store');
+    } catch {
+      // ignore
     }
 
-    // Load scheduler status
+    // 2. Fallback to static public/data/snapshots.json (for Vercel / GitHub Pages)
+    if (!loadedData || loadedData.length === 0) {
+      try {
+        const staticRes = await fetch(`/data/snapshots.json?v=${Date.now()}`);
+        if (staticRes.ok) {
+          const staticJson = await staticRes.json();
+          if (Array.isArray(staticJson) && staticJson.length > 0) {
+            loadedData = staticJson;
+          }
+        }
+      } catch {
+        // ignore
+      }
+    }
+
+    if (loadedData && loadedData.length > 0) {
+      setSnapshots(loadedData);
+      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(loadedData));
+      const latest = loadedData[loadedData.length - 1].date;
+      setSelectedDate(latest);
+    }
+
+    // Load scheduler status if running on Node server
     try {
       const schedRes = await fetch('/api/scheduler-status');
       if (schedRes.ok) {

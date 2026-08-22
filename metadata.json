@@ -1,0 +1,6 @@
+{
+  "name": "screener.in industry trends",
+  "description": "Daily 7 PM industry trends tracker and analyzer across sectors and financial metrics with daily, weekly, monthly, and yearly views and data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

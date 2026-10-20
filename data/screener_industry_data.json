@@ -72613,13 +72613,13 @@
   },
   {
     "date": "2026-10-20",
-    "timestamp": 1792437969967,
+    "timestamp": 1792519502022,
     "sectors": [
       {
         "sector": "2/3 Wheelers",
         "noOfCompanies": 10,
-        "totalMarketCap": 860566,
-        "medianMarketCap": 37615,
+        "totalMarketCap": 860663,
+        "medianMarketCap": 37561,
         "medianPE": 35,
         "wtdAvgSalesGrowth": 30,
         "wtdAvgOPM": 16,
@@ -72629,13 +72629,13 @@
       {
         "sector": "Abrasives & Bearings",
         "noOfCompanies": 8,
-        "totalMarketCap": 83787,
-        "medianMarketCap": 9589,
+        "totalMarketCap": 83750,
+        "medianMarketCap": 9586,
         "medianPE": 66,
         "wtdAvgSalesGrowth": 31,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 18,
-        "median1YReturn": -3
+        "median1YReturn": -2
       },
       {
         "sector": "Advertising & Media Agencies",
@@ -72651,74 +72651,74 @@
       {
         "sector": "Aerospace & Defense",
         "noOfCompanies": 33,
-        "totalMarketCap": 853633,
-        "medianMarketCap": 5544,
+        "totalMarketCap": 853215,
+        "medianMarketCap": 5558,
         "medianPE": 77,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 25,
         "wtdAvgROCE": 29,
-        "median1YReturn": 18
+        "median1YReturn": 19
       },
       {
         "sector": "Airline",
         "noOfCompanies": 5,
-        "totalMarketCap": 185597,
+        "totalMarketCap": 185677,
         "medianMarketCap": 1251,
         "medianPE": 20,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 6,
-        "median1YReturn": -20
+        "median1YReturn": -21
       },
       {
         "sector": "Airport & Airport services",
         "noOfCompanies": 2,
-        "totalMarketCap": 96590,
-        "medianMarketCap": 48295,
+        "totalMarketCap": 96375,
+        "medianMarketCap": 48188,
         "medianPE": 171,
         "wtdAvgSalesGrowth": 27,
         "wtdAvgOPM": 38,
         "wtdAvgROCE": 12,
-        "median1YReturn": -27
+        "median1YReturn": -28
       },
       {
         "sector": "Aluminium",
         "noOfCompanies": 10,
-        "totalMarketCap": 410309,
+        "totalMarketCap": 410791,
         "medianMarketCap": 910,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 19,
         "wtdAvgOPM": 20,
         "wtdAvgROCE": 19,
-        "median1YReturn": 27
+        "median1YReturn": 26
       },
       {
         "sector": "Aluminium, Copper & Zinc Products",
         "noOfCompanies": 18,
-        "totalMarketCap": 21230,
+        "totalMarketCap": 21247,
         "medianMarketCap": 419,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 39,
         "wtdAvgOPM": 5,
         "wtdAvgROCE": 24,
-        "median1YReturn": 14
+        "median1YReturn": 13
       },
       {
         "sector": "Amusement Parks/ Other Recreation",
         "noOfCompanies": 6,
-        "totalMarketCap": 8894,
+        "totalMarketCap": 8896,
         "medianMarketCap": 1216,
         "medianPE": 25,
         "wtdAvgSalesGrowth": 4,
         "wtdAvgOPM": 27,
         "wtdAvgROCE": 8,
-        "median1YReturn": -13
+        "median1YReturn": -14
       },
       {
         "sector": "Animal Feed",
         "noOfCompanies": 6,
-        "totalMarketCap": 23826,
-        "medianMarketCap": 684,
+        "totalMarketCap": 23803,
+        "medianMarketCap": 685,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 8,
@@ -72728,41 +72728,41 @@
       {
         "sector": "Asset Management Company",
         "noOfCompanies": 10,
-        "totalMarketCap": 450806,
-        "medianMarketCap": 19446,
+        "totalMarketCap": 451379,
+        "medianMarketCap": 19445,
         "medianPE": 33,
         "wtdAvgSalesGrowth": 16,
         "wtdAvgOPM": 71,
-        "wtdAvgROCE": 67,
+        "wtdAvgROCE": 66,
         "median1YReturn": -18
       },
       {
         "sector": "Auto Components & Equipments",
         "noOfCompanies": 132,
-        "totalMarketCap": 1219757,
-        "medianMarketCap": 1522,
+        "totalMarketCap": 1220135,
+        "medianMarketCap": 1528,
         "medianPE": 29,
         "wtdAvgSalesGrowth": 18,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 19,
-        "median1YReturn": -1
+        "median1YReturn": 0
       },
       {
         "sector": "Auto Dealer",
         "noOfCompanies": 5,
-        "totalMarketCap": 3238,
+        "totalMarketCap": 3225,
         "medianMarketCap": 228,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 22,
         "wtdAvgOPM": 4,
         "wtdAvgROCE": 10,
-        "median1YReturn": -16
+        "median1YReturn": -17
       },
       {
         "sector": "Biotechnology",
         "noOfCompanies": 3,
-        "totalMarketCap": 48658,
-        "medianMarketCap": 2941,
+        "totalMarketCap": 48639,
+        "medianMarketCap": 2934,
         "medianPE": 48,
         "wtdAvgSalesGrowth": 1,
         "wtdAvgOPM": 37,
@@ -72772,41 +72772,41 @@
       {
         "sector": "Breweries & Distilleries",
         "noOfCompanies": 23,
-        "totalMarketCap": 246498,
+        "totalMarketCap": 246230,
         "medianMarketCap": 1158,
         "medianPE": 45,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 21,
-        "median1YReturn": -23
+        "median1YReturn": -25
       },
       {
         "sector": "Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)",
         "noOfCompanies": 6,
-        "totalMarketCap": 45537,
-        "medianMarketCap": 2576,
+        "totalMarketCap": 45539,
+        "medianMarketCap": 2574,
         "medianPE": 25,
         "wtdAvgSalesGrowth": 16,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 23,
-        "median1YReturn": -7
+        "median1YReturn": -11
       },
       {
         "sector": "Cables - Electricals",
         "noOfCompanies": 21,
-        "totalMarketCap": 242285,
-        "medianMarketCap": 1919,
+        "totalMarketCap": 242235,
+        "medianMarketCap": 1921,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 33,
         "wtdAvgOPM": 11,
         "wtdAvgROCE": 27,
-        "median1YReturn": 49
+        "median1YReturn": 48
       },
       {
         "sector": "Carbon Black",
         "noOfCompanies": 2,
-        "totalMarketCap": 42505,
-        "medianMarketCap": 21253,
+        "totalMarketCap": 42482,
+        "medianMarketCap": 21241,
         "medianPE": 40,
         "wtdAvgSalesGrowth": 10,
         "wtdAvgOPM": 16,
@@ -72816,7 +72816,7 @@
       {
         "sector": "Castings & Forgings",
         "noOfCompanies": 21,
-        "totalMarketCap": 110807,
+        "totalMarketCap": 110747,
         "medianMarketCap": 894,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 12,
@@ -72827,8 +72827,8 @@
       {
         "sector": "Cement & Cement Products",
         "noOfCompanies": 32,
-        "totalMarketCap": 865983,
-        "medianMarketCap": 2739,
+        "totalMarketCap": 867366,
+        "medianMarketCap": 2740,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 15,
         "wtdAvgOPM": 18,
@@ -72838,19 +72838,19 @@
       {
         "sector": "Ceramics",
         "noOfCompanies": 8,
-        "totalMarketCap": 28756,
-        "medianMarketCap": 1648,
+        "totalMarketCap": 28735,
+        "medianMarketCap": 1647,
         "medianPE": 33,
         "wtdAvgSalesGrowth": 10,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 18,
-        "median1YReturn": -18
+        "median1YReturn": -16
       },
       {
         "sector": "Cigarettes & Tobacco Products",
         "noOfCompanies": 4,
-        "totalMarketCap": 32931,
-        "medianMarketCap": 2238,
+        "totalMarketCap": 32853,
+        "medianMarketCap": 2235,
         "medianPE": 11,
         "wtdAvgSalesGrowth": 59,
         "wtdAvgOPM": 17,
@@ -72860,19 +72860,19 @@
       {
         "sector": "Civil Construction",
         "noOfCompanies": 121,
-        "totalMarketCap": 865071,
+        "totalMarketCap": 866009,
         "medianMarketCap": 578,
         "medianPE": 16,
         "wtdAvgSalesGrowth": 7,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 16,
-        "median1YReturn": -29
+        "median1YReturn": -28
       },
       {
         "sector": "Coal",
         "noOfCompanies": 4,
-        "totalMarketCap": 275826,
-        "medianMarketCap": 9135,
+        "totalMarketCap": 275673,
+        "medianMarketCap": 9152,
         "medianPE": 23,
         "wtdAvgSalesGrowth": 4,
         "wtdAvgOPM": 23,
@@ -72882,52 +72882,52 @@
       {
         "sector": "Commercial Vehicles",
         "noOfCompanies": 4,
-        "totalMarketCap": 250863,
-        "medianMarketCap": 47795,
+        "totalMarketCap": 250979,
+        "medianMarketCap": 47806,
         "medianPE": 24,
         "wtdAvgSalesGrowth": 16,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 28,
-        "median1YReturn": 10
+        "median1YReturn": 9
       },
       {
         "sector": "Commodity Chemicals",
         "noOfCompanies": 44,
-        "totalMarketCap": 156031,
-        "medianMarketCap": 648,
+        "totalMarketCap": 155841,
+        "medianMarketCap": 652,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 12,
-        "median1YReturn": -2
+        "median1YReturn": -4
       },
       {
         "sector": "Compressors, Pumps & Diesel Engines",
         "noOfCompanies": 14,
-        "totalMarketCap": 240541,
-        "medianMarketCap": 6556,
+        "totalMarketCap": 241268,
+        "medianMarketCap": 6562,
         "medianPE": 39,
         "wtdAvgSalesGrowth": 16,
         "wtdAvgOPM": 16,
         "wtdAvgROCE": 33,
-        "median1YReturn": -4
+        "median1YReturn": -5
       },
       {
         "sector": "Computers - Software & Consulting",
         "noOfCompanies": 74,
-        "totalMarketCap": 2642711,
-        "medianMarketCap": 715,
+        "totalMarketCap": 2640850,
+        "medianMarketCap": 716,
         "medianPE": 20,
         "wtdAvgSalesGrowth": 12,
         "wtdAvgOPM": 22,
         "wtdAvgROCE": 41,
-        "median1YReturn": -18
+        "median1YReturn": -19
       },
       {
         "sector": "Computers Hardware & Equipments",
         "noOfCompanies": 16,
-        "totalMarketCap": 25668,
-        "medianMarketCap": 701,
+        "totalMarketCap": 25666,
+        "medianMarketCap": 702,
         "medianPE": 25,
         "wtdAvgSalesGrowth": 31,
         "wtdAvgOPM": 4,
@@ -72937,8 +72937,8 @@
       {
         "sector": "Construction Vehicles",
         "noOfCompanies": 6,
-        "totalMarketCap": 38345,
-        "medianMarketCap": 4133,
+        "totalMarketCap": 38342,
+        "medianMarketCap": 4125,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 11,
@@ -72948,7 +72948,7 @@
       {
         "sector": "Consulting Services",
         "noOfCompanies": 10,
-        "totalMarketCap": 6504,
+        "totalMarketCap": 6508,
         "medianMarketCap": 289,
         "medianPE": 36,
         "wtdAvgSalesGrowth": 97,
@@ -72959,52 +72959,52 @@
       {
         "sector": "Consumer Electronics",
         "noOfCompanies": 18,
-        "totalMarketCap": 164354,
+        "totalMarketCap": 164530,
         "medianMarketCap": 396,
         "medianPE": 37,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 5,
         "wtdAvgROCE": 10,
-        "median1YReturn": -14
+        "median1YReturn": -13
       },
       {
         "sector": "Copper",
         "noOfCompanies": 4,
-        "totalMarketCap": 44586,
-        "medianMarketCap": 868,
+        "totalMarketCap": 44590,
+        "medianMarketCap": 870,
         "medianPE": 37,
         "wtdAvgSalesGrowth": 65,
         "wtdAvgOPM": 30,
         "wtdAvgROCE": 41,
-        "median1YReturn": 39
+        "median1YReturn": 42
       },
       {
         "sector": "Dairy Products",
         "noOfCompanies": 11,
-        "totalMarketCap": 76879,
-        "medianMarketCap": 3597,
+        "totalMarketCap": 76947,
+        "medianMarketCap": 3602,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 17,
         "wtdAvgOPM": 8,
         "wtdAvgROCE": 15,
-        "median1YReturn": 12
+        "median1YReturn": 6
       },
       {
         "sector": "Data Processing Services",
         "noOfCompanies": 1,
-        "totalMarketCap": 332,
-        "medianMarketCap": 332,
+        "totalMarketCap": 331,
+        "medianMarketCap": 331,
         "medianPE": 0,
         "wtdAvgSalesGrowth": -1,
         "wtdAvgOPM": -13,
         "wtdAvgROCE": -7,
-        "median1YReturn": -43
+        "median1YReturn": -42
       },
       {
         "sector": "Dealers-Commercial Vehicles, Tractors, Construction Vehicles",
         "noOfCompanies": 1,
-        "totalMarketCap": 459,
-        "medianMarketCap": 459,
+        "totalMarketCap": 457,
+        "medianMarketCap": 457,
         "medianPE": 54,
         "wtdAvgSalesGrowth": -4,
         "wtdAvgOPM": 3,
@@ -73025,29 +73025,29 @@
       {
         "sector": "Digital Entertainment",
         "noOfCompanies": 4,
-        "totalMarketCap": 17160,
+        "totalMarketCap": 17108,
         "medianMarketCap": 235,
         "medianPE": 21,
         "wtdAvgSalesGrowth": -3,
         "wtdAvgOPM": -3,
         "wtdAvgROCE": 27,
-        "median1YReturn": 13
+        "median1YReturn": 11
       },
       {
         "sector": "Distributors",
         "noOfCompanies": 3,
-        "totalMarketCap": 477,
+        "totalMarketCap": 475,
         "medianMarketCap": 142,
         "medianPE": 18,
         "wtdAvgSalesGrowth": 5,
         "wtdAvgOPM": 18,
         "wtdAvgROCE": 25,
-        "median1YReturn": -8
+        "median1YReturn": -7
       },
       {
         "sector": "Diversified",
         "noOfCompanies": 7,
-        "totalMarketCap": 88858,
+        "totalMarketCap": 88835,
         "medianMarketCap": 2690,
         "medianPE": 14,
         "wtdAvgSalesGrowth": 14,
@@ -73058,7 +73058,7 @@
       {
         "sector": "Diversified Commercial Services",
         "noOfCompanies": 61,
-        "totalMarketCap": 113042,
+        "totalMarketCap": 113058,
         "medianMarketCap": 463,
         "medianPE": 17,
         "wtdAvgSalesGrowth": 14,
@@ -73069,140 +73069,140 @@
       {
         "sector": "Diversified consumer products",
         "noOfCompanies": 3,
-        "totalMarketCap": 2465,
+        "totalMarketCap": 2462,
         "medianMarketCap": 315,
         "medianPE": 43,
         "wtdAvgSalesGrowth": 18,
         "wtdAvgOPM": 9,
         "wtdAvgROCE": 10,
-        "median1YReturn": -3
+        "median1YReturn": -7
       },
       {
         "sector": "Diversified FMCG",
         "noOfCompanies": 5,
-        "totalMarketCap": 770315,
-        "medianMarketCap": 6843,
-        "medianPE": 42,
+        "totalMarketCap": 770666,
+        "medianMarketCap": 6856,
+        "medianPE": 41,
         "wtdAvgSalesGrowth": 1,
         "wtdAvgOPM": 28,
         "wtdAvgROCE": 33,
-        "median1YReturn": -26
+        "median1YReturn": -25
       },
       {
         "sector": "Diversified Metals",
         "noOfCompanies": 5,
-        "totalMarketCap": 109842,
-        "medianMarketCap": 3213,
+        "totalMarketCap": 110012,
+        "medianMarketCap": 3214,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 27,
         "wtdAvgROCE": 18,
-        "median1YReturn": 13
+        "median1YReturn": 12
       },
       {
         "sector": "Diversified Retail",
         "noOfCompanies": 10,
-        "totalMarketCap": 279775,
-        "medianMarketCap": 2697,
+        "totalMarketCap": 279696,
+        "medianMarketCap": 2696,
         "medianPE": 45,
         "wtdAvgSalesGrowth": 17,
         "wtdAvgOPM": 9,
         "wtdAvgROCE": 16,
-        "median1YReturn": -9
+        "median1YReturn": -10
       },
       {
         "sector": "Dredging",
         "noOfCompanies": 2,
-        "totalMarketCap": 10838,
-        "medianMarketCap": 5419,
+        "totalMarketCap": 10842,
+        "medianMarketCap": 5421,
         "medianPE": 63,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 25,
         "wtdAvgROCE": 14,
-        "median1YReturn": 123
+        "median1YReturn": 116
       },
       {
         "sector": "Dyes And Pigments",
         "noOfCompanies": 14,
-        "totalMarketCap": 21309,
-        "medianMarketCap": 631,
+        "totalMarketCap": 21262,
+        "medianMarketCap": 632,
         "medianPE": 21,
         "wtdAvgSalesGrowth": 49,
         "wtdAvgOPM": 6,
         "wtdAvgROCE": 7,
-        "median1YReturn": 10
+        "median1YReturn": 9
       },
       {
         "sector": "E-Learning",
         "noOfCompanies": 5,
-        "totalMarketCap": 39544,
-        "medianMarketCap": 371,
+        "totalMarketCap": 39398,
+        "medianMarketCap": 364,
         "medianPE": 16,
         "wtdAvgSalesGrowth": 31,
         "wtdAvgOPM": 13,
         "wtdAvgROCE": 5,
-        "median1YReturn": -5
+        "median1YReturn": -6
       },
       {
         "sector": "E-Retail/ E-Commerce",
         "noOfCompanies": 14,
-        "totalMarketCap": 642447,
-        "medianMarketCap": 9113,
+        "totalMarketCap": 641944,
+        "medianMarketCap": 9114,
         "medianPE": 53,
         "wtdAvgSalesGrowth": 77,
         "wtdAvgOPM": -2,
         "wtdAvgROCE": -5,
-        "median1YReturn": -7
+        "median1YReturn": -5
       },
       {
         "sector": "Edible Oil",
         "noOfCompanies": 18,
-        "totalMarketCap": 177149,
-        "medianMarketCap": 336,
+        "totalMarketCap": 177609,
+        "medianMarketCap": 339,
         "medianPE": 17,
         "wtdAvgSalesGrowth": 19,
         "wtdAvgOPM": 5,
         "wtdAvgROCE": 34,
-        "median1YReturn": -21
+        "median1YReturn": -19
       },
       {
         "sector": "Education",
-        "noOfCompanies": 14,
-        "totalMarketCap": 10598,
-        "medianMarketCap": 305,
+        "noOfCompanies": 15,
+        "totalMarketCap": 10705,
+        "medianMarketCap": 287,
         "medianPE": 29,
-        "wtdAvgSalesGrowth": 19,
+        "wtdAvgSalesGrowth": 18,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 17,
-        "median1YReturn": -20
+        "median1YReturn": -22
       },
       {
         "sector": "Electrodes & Refractories",
         "noOfCompanies": 12,
         "totalMarketCap": 51899,
-        "medianMarketCap": 2007,
+        "medianMarketCap": 2006,
         "medianPE": 30,
         "wtdAvgSalesGrowth": 15,
         "wtdAvgOPM": 11,
         "wtdAvgROCE": 14,
-        "median1YReturn": 10
+        "median1YReturn": 9
       },
       {
         "sector": "Electronic Media",
         "noOfCompanies": 2,
         "totalMarketCap": 383,
-        "medianMarketCap": 192,
+        "medianMarketCap": 191,
         "medianPE": 0,
         "wtdAvgSalesGrowth": 145,
         "wtdAvgOPM": -1,
         "wtdAvgROCE": 0,
-        "median1YReturn": 34
+        "median1YReturn": 29
       },
       {
         "sector": "Exchange and Data Platform",
         "noOfCompanies": 4,
-        "totalMarketCap": 653981,
-        "medianMarketCap": 108640,
+        "totalMarketCap": 653938,
+        "medianMarketCap": 108636,
         "medianPE": 47,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 68,
@@ -73212,7 +73212,7 @@
       {
         "sector": "Explosives",
         "noOfCompanies": 5,
-        "totalMarketCap": 186545,
+        "totalMarketCap": 187159,
         "medianMarketCap": 1828,
         "medianPE": 84,
         "wtdAvgSalesGrowth": 36,
@@ -73223,7 +73223,7 @@
       {
         "sector": "Ferro & Silica Manganese",
         "noOfCompanies": 8,
-        "totalMarketCap": 10105,
+        "totalMarketCap": 10110,
         "medianMarketCap": 265,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 6,
@@ -73234,8 +73234,8 @@
       {
         "sector": "Fertilizers",
         "noOfCompanies": 19,
-        "totalMarketCap": 163246,
-        "medianMarketCap": 1195,
+        "totalMarketCap": 163284,
+        "medianMarketCap": 1189,
         "medianPE": 13,
         "wtdAvgSalesGrowth": 20,
         "wtdAvgOPM": 8,
@@ -73245,19 +73245,19 @@
       {
         "sector": "Film Production, Distribution & Exhibition",
         "noOfCompanies": 14,
-        "totalMarketCap": 23334,
-        "medianMarketCap": 377,
+        "totalMarketCap": 23332,
+        "medianMarketCap": 378,
         "medianPE": 56,
         "wtdAvgSalesGrowth": 4,
         "wtdAvgOPM": 25,
         "wtdAvgROCE": 11,
-        "median1YReturn": 11
+        "median1YReturn": 12
       },
       {
         "sector": "Financial Institution",
         "noOfCompanies": 8,
-        "totalMarketCap": 379136,
-        "medianMarketCap": 30615,
+        "totalMarketCap": 378934,
+        "medianMarketCap": 30611,
         "medianPE": 15,
         "wtdAvgSalesGrowth": 6,
         "wtdAvgOPM": 96,
@@ -73267,8 +73267,8 @@
       {
         "sector": "Financial Products Distributor",
         "noOfCompanies": 3,
-        "totalMarketCap": 48697,
-        "medianMarketCap": 12660,
+        "totalMarketCap": 48698,
+        "medianMarketCap": 12656,
         "medianPE": 52,
         "wtdAvgSalesGrowth": 20,
         "wtdAvgOPM": 30,
@@ -73278,40 +73278,40 @@
       {
         "sector": "Financial Technology (Fintech)",
         "noOfCompanies": 12,
-        "totalMarketCap": 210055,
-        "medianMarketCap": 4808,
+        "totalMarketCap": 209960,
+        "medianMarketCap": 4805,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 40,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 9,
-        "median1YReturn": -20
+        "median1YReturn": -17
       },
       {
         "sector": "Footwear",
         "noOfCompanies": 11,
-        "totalMarketCap": 53942,
-        "medianMarketCap": 656,
+        "totalMarketCap": 53951,
+        "medianMarketCap": 644,
         "medianPE": 40,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 19,
         "wtdAvgROCE": 18,
-        "median1YReturn": -29
+        "median1YReturn": -30
       },
       {
         "sector": "Forest Products",
         "noOfCompanies": 1,
-        "totalMarketCap": 218,
-        "medianMarketCap": 218,
+        "totalMarketCap": 217,
+        "medianMarketCap": 217,
         "medianPE": 37,
         "wtdAvgSalesGrowth": 10,
         "wtdAvgOPM": 6,
         "wtdAvgROCE": 3,
-        "median1YReturn": -22
+        "median1YReturn": -23
       },
       {
         "sector": "Furniture, Home Furnishing",
         "noOfCompanies": 11,
-        "totalMarketCap": 19133,
+        "totalMarketCap": 19145,
         "medianMarketCap": 774,
         "medianPE": 23,
         "wtdAvgSalesGrowth": 12,
@@ -73322,19 +73322,19 @@
       {
         "sector": "Garments & Apparels",
         "noOfCompanies": 38,
-        "totalMarketCap": 98155,
+        "totalMarketCap": 98359,
         "medianMarketCap": 418,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 10,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 35,
-        "median1YReturn": -18
+        "median1YReturn": -17
       },
       {
         "sector": "Gas Transmission/Marketing",
         "noOfCompanies": 2,
-        "totalMarketCap": 114486,
-        "medianMarketCap": 57243,
+        "totalMarketCap": 114584,
+        "medianMarketCap": 57292,
         "medianPE": 34,
         "wtdAvgSalesGrowth": 3,
         "wtdAvgOPM": 11,
@@ -73344,19 +73344,19 @@
       {
         "sector": "Gems, Jewellery And Watches",
         "noOfCompanies": 60,
-        "totalMarketCap": 620412,
-        "medianMarketCap": 895,
+        "totalMarketCap": 620842,
+        "medianMarketCap": 901,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 73,
         "wtdAvgOPM": 2,
         "wtdAvgROCE": 22,
-        "median1YReturn": 29
+        "median1YReturn": 30
       },
       {
         "sector": "General Insurance",
         "noOfCompanies": 6,
-        "totalMarketCap": 240900,
-        "medianMarketCap": 30286,
+        "totalMarketCap": 241129,
+        "medianMarketCap": 30292,
         "medianPE": 38,
         "wtdAvgSalesGrowth": 9,
         "wtdAvgOPM": 8,
@@ -73366,8 +73366,8 @@
       {
         "sector": "Glass - Consumer",
         "noOfCompanies": 1,
-        "totalMarketCap": 1751,
-        "medianMarketCap": 1751,
+        "totalMarketCap": 1750,
+        "medianMarketCap": 1750,
         "medianPE": 19,
         "wtdAvgSalesGrowth": -3,
         "wtdAvgOPM": 37,
@@ -73377,85 +73377,85 @@
       {
         "sector": "Glass - Industrial",
         "noOfCompanies": 4,
-        "totalMarketCap": 8455,
-        "medianMarketCap": 954,
+        "totalMarketCap": 8464,
+        "medianMarketCap": 955,
         "medianPE": 18,
         "wtdAvgSalesGrowth": 33,
         "wtdAvgOPM": 25,
         "wtdAvgROCE": 24,
-        "median1YReturn": -6
+        "median1YReturn": -9
       },
       {
         "sector": "Granites & Marbles",
-        "noOfCompanies": 5,
-        "totalMarketCap": 6656,
-        "medianMarketCap": 143,
-        "medianPE": 37,
-        "wtdAvgSalesGrowth": -20,
-        "wtdAvgOPM": 20,
+        "noOfCompanies": 4,
+        "totalMarketCap": 6552,
+        "medianMarketCap": 1180,
+        "medianPE": 30,
+        "wtdAvgSalesGrowth": -19,
+        "wtdAvgOPM": 21,
         "wtdAvgROCE": 14,
-        "median1YReturn": -19
+        "median1YReturn": -10
       },
       {
         "sector": "Healthcare Research, Analytics & Technology",
         "noOfCompanies": 9,
-        "totalMarketCap": 41964,
-        "medianMarketCap": 582,
+        "totalMarketCap": 42002,
+        "medianMarketCap": 584,
         "medianPE": 32,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": -4,
-        "median1YReturn": -4
+        "median1YReturn": -2
       },
       {
         "sector": "Healthcare Service Provider",
         "noOfCompanies": 16,
-        "totalMarketCap": 77566,
-        "medianMarketCap": 1018,
+        "totalMarketCap": 77488,
+        "medianMarketCap": 1016,
         "medianPE": 36,
         "wtdAvgSalesGrowth": 23,
         "wtdAvgOPM": 24,
         "wtdAvgROCE": 25,
-        "median1YReturn": 7
+        "median1YReturn": 8
       },
       {
         "sector": "Heavy Electrical Equipment",
         "noOfCompanies": 48,
-        "totalMarketCap": 1198931,
-        "medianMarketCap": 5124,
+        "totalMarketCap": 1199352,
+        "medianMarketCap": 5123,
         "medianPE": 33,
         "wtdAvgSalesGrowth": 29,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 33,
-        "median1YReturn": -7
+        "median1YReturn": -6
       },
       {
         "sector": "Holding Company",
         "noOfCompanies": 14,
-        "totalMarketCap": 453253,
-        "medianMarketCap": 1868,
+        "totalMarketCap": 453085,
+        "medianMarketCap": 1867,
         "medianPE": 11,
         "wtdAvgSalesGrowth": 26,
         "wtdAvgOPM": 31,
         "wtdAvgROCE": 11,
-        "median1YReturn": -11
+        "median1YReturn": -15
       },
       {
         "sector": "Hospital",
         "noOfCompanies": 30,
-        "totalMarketCap": 574834,
-        "medianMarketCap": 5599,
+        "totalMarketCap": 574505,
+        "medianMarketCap": 5598,
         "medianPE": 45,
         "wtdAvgSalesGrowth": 22,
         "wtdAvgOPM": 21,
         "wtdAvgROCE": 15,
-        "median1YReturn": -8
+        "median1YReturn": -7
       },
       {
         "sector": "Hotels & Resorts",
         "noOfCompanies": 45,
-        "totalMarketCap": 264101,
-        "medianMarketCap": 730,
+        "totalMarketCap": 263974,
+        "medianMarketCap": 727,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 33,
@@ -73465,8 +73465,8 @@
       {
         "sector": "Household Appliances",
         "noOfCompanies": 23,
-        "totalMarketCap": 286052,
-        "medianMarketCap": 4153,
+        "totalMarketCap": 286217,
+        "medianMarketCap": 4147,
         "medianPE": 33,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 8,
@@ -73476,19 +73476,19 @@
       {
         "sector": "Household Products",
         "noOfCompanies": 6,
-        "totalMarketCap": 10285,
-        "medianMarketCap": 360,
+        "totalMarketCap": 10275,
+        "medianMarketCap": 361,
         "medianPE": 24,
         "wtdAvgSalesGrowth": 5,
         "wtdAvgOPM": 11,
         "wtdAvgROCE": 25,
-        "median1YReturn": -22
+        "median1YReturn": -23
       },
       {
         "sector": "Houseware",
         "noOfCompanies": 8,
-        "totalMarketCap": 18008,
-        "medianMarketCap": 857,
+        "totalMarketCap": 18000,
+        "medianMarketCap": 856,
         "medianPE": 27,
         "wtdAvgSalesGrowth": 11,
         "wtdAvgOPM": 17,
@@ -73498,24 +73498,24 @@
       {
         "sector": "Housing Finance Company",
         "noOfCompanies": 14,
-        "totalMarketCap": 257631,
-        "medianMarketCap": 10854,
+        "totalMarketCap": 257667,
+        "medianMarketCap": 10857,
         "medianPE": 13,
         "wtdAvgSalesGrowth": 7,
         "wtdAvgOPM": 82,
         "wtdAvgROCE": 9,
-        "median1YReturn": -23
+        "median1YReturn": -24
       },
       {
         "sector": "Industrial Gases",
         "noOfCompanies": 4,
-        "totalMarketCap": 61686,
-        "medianMarketCap": 4095,
+        "totalMarketCap": 61773,
+        "medianMarketCap": 4090,
         "medianPE": 61,
         "wtdAvgSalesGrowth": 11,
         "wtdAvgOPM": 30,
         "wtdAvgROCE": 18,
-        "median1YReturn": -29
+        "median1YReturn": -27
       },
       {
         "sector": "Industrial Machinery",
@@ -73531,9 +73531,9 @@
       {
         "sector": "Industrial Minerals",
         "noOfCompanies": 12,
-        "totalMarketCap": 202625,
-        "medianMarketCap": 3184,
-        "medianPE": 16,
+        "totalMarketCap": 202661,
+        "medianMarketCap": 3187,
+        "medianPE": 15,
         "wtdAvgSalesGrowth": 55,
         "wtdAvgOPM": 27,
         "wtdAvgROCE": 25,
@@ -73542,13 +73542,13 @@
       {
         "sector": "Industrial Products",
         "noOfCompanies": 132,
-        "totalMarketCap": 438992,
-        "medianMarketCap": 652,
+        "totalMarketCap": 438885,
+        "medianMarketCap": 650,
         "medianPE": 34,
         "wtdAvgSalesGrowth": 22,
         "wtdAvgOPM": 13,
         "wtdAvgROCE": 19,
-        "median1YReturn": 6
+        "median1YReturn": 5
       },
       {
         "sector": "Insurance Distributors",
@@ -73559,34 +73559,34 @@
         "wtdAvgSalesGrowth": 27,
         "wtdAvgOPM": 19,
         "wtdAvgROCE": 13,
-        "median1YReturn": -46
+        "median1YReturn": -45
       },
       {
         "sector": "Integrated Power Utilities",
         "noOfCompanies": 6,
-        "totalMarketCap": 568446,
-        "medianMarketCap": 39296,
+        "totalMarketCap": 568184,
+        "medianMarketCap": 39324,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 1,
         "wtdAvgOPM": 23,
         "wtdAvgROCE": 15,
-        "median1YReturn": -17
+        "median1YReturn": -19
       },
       {
         "sector": "Internet & Catalogue Retail",
         "noOfCompanies": 6,
-        "totalMarketCap": 99593,
-        "medianMarketCap": 4438,
+        "totalMarketCap": 99577,
+        "medianMarketCap": 4436,
         "medianPE": 17,
         "wtdAvgSalesGrowth": 15,
         "wtdAvgOPM": 32,
         "wtdAvgROCE": 8,
-        "median1YReturn": -20
+        "median1YReturn": -19
       },
       {
         "sector": "Investment Company",
         "noOfCompanies": 42,
-        "totalMarketCap": 394578,
+        "totalMarketCap": 394377,
         "medianMarketCap": 950,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 25,
@@ -73597,8 +73597,8 @@
       {
         "sector": "Iron & Steel",
         "noOfCompanies": 14,
-        "totalMarketCap": 816135,
-        "medianMarketCap": 11551,
+        "totalMarketCap": 815710,
+        "medianMarketCap": 11548,
         "medianPE": 18,
         "wtdAvgSalesGrowth": 11,
         "wtdAvgOPM": 15,
@@ -73608,18 +73608,18 @@
       {
         "sector": "Iron & Steel Products",
         "noOfCompanies": 91,
-        "totalMarketCap": 385188,
-        "medianMarketCap": 999,
+        "totalMarketCap": 384814,
+        "medianMarketCap": 1001,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 10,
         "wtdAvgOPM": 11,
         "wtdAvgROCE": 19,
-        "median1YReturn": 3
+        "median1YReturn": 4
       },
       {
         "sector": "IT Enabled Services",
         "noOfCompanies": 71,
-        "totalMarketCap": 291594,
+        "totalMarketCap": 291548,
         "medianMarketCap": 837,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 22,
@@ -73636,18 +73636,18 @@
         "wtdAvgSalesGrowth": 61,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 9,
-        "median1YReturn": -17
+        "median1YReturn": -16
       },
       {
         "sector": "Leather And Leather Products",
         "noOfCompanies": 7,
-        "totalMarketCap": 7006,
-        "medianMarketCap": 385,
+        "totalMarketCap": 6976,
+        "medianMarketCap": 382,
         "medianPE": 39,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 9,
         "wtdAvgROCE": 11,
-        "median1YReturn": -21
+        "median1YReturn": -20
       },
       {
         "sector": "Leisure Products",
@@ -73658,13 +73658,13 @@
         "wtdAvgSalesGrowth": 48,
         "wtdAvgOPM": 11,
         "wtdAvgROCE": 17,
-        "median1YReturn": -58
+        "median1YReturn": -57
       },
       {
         "sector": "Life Insurance",
         "noOfCompanies": 6,
-        "totalMarketCap": 901675,
-        "medianMarketCap": 90884,
+        "totalMarketCap": 901389,
+        "medianMarketCap": 91039,
         "medianPE": 61,
         "wtdAvgSalesGrowth": 10,
         "wtdAvgOPM": 4,
@@ -73674,19 +73674,19 @@
       {
         "sector": "Logistics Solution Provider",
         "noOfCompanies": 47,
-        "totalMarketCap": 139236,
+        "totalMarketCap": 139204,
         "medianMarketCap": 578,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 11,
         "wtdAvgOPM": 9,
         "wtdAvgROCE": 11,
-        "median1YReturn": -7
+        "median1YReturn": -8
       },
       {
         "sector": "LPG/CNG/PNG/LNG Supplier",
         "noOfCompanies": 9,
-        "totalMarketCap": 165340,
-        "medianMarketCap": 10298,
+        "totalMarketCap": 165351,
+        "medianMarketCap": 10291,
         "medianPE": 14,
         "wtdAvgSalesGrowth": -1,
         "wtdAvgOPM": 13,
@@ -73696,52 +73696,52 @@
       {
         "sector": "Lubricants",
         "noOfCompanies": 8,
-        "totalMarketCap": 38140,
-        "medianMarketCap": 2910,
+        "totalMarketCap": 38150,
+        "medianMarketCap": 2907,
         "medianPE": 10,
         "wtdAvgSalesGrowth": 24,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 40,
-        "median1YReturn": 56
+        "median1YReturn": 60
       },
       {
         "sector": "Meat Products including Poultry",
         "noOfCompanies": 5,
-        "totalMarketCap": 5198,
-        "medianMarketCap": 1092,
+        "totalMarketCap": 5199,
+        "medianMarketCap": 1093,
         "medianPE": 9,
         "wtdAvgSalesGrowth": 34,
         "wtdAvgOPM": 5,
         "wtdAvgROCE": 18,
-        "median1YReturn": 19
+        "median1YReturn": 18
       },
       {
         "sector": "Media & Entertainment",
         "noOfCompanies": 12,
-        "totalMarketCap": 49542,
-        "medianMarketCap": 467,
+        "totalMarketCap": 49466,
+        "medianMarketCap": 471,
         "medianPE": 43,
         "wtdAvgSalesGrowth": -9,
         "wtdAvgOPM": 19,
         "wtdAvgROCE": 32,
-        "median1YReturn": -17
+        "median1YReturn": -21
       },
       {
         "sector": "Medical Equipment & Supplies",
         "noOfCompanies": 17,
-        "totalMarketCap": 42486,
-        "medianMarketCap": 617,
+        "totalMarketCap": 42477,
+        "medianMarketCap": 616,
         "medianPE": 33,
         "wtdAvgSalesGrowth": 26,
         "wtdAvgOPM": 19,
         "wtdAvgROCE": 15,
-        "median1YReturn": -25
+        "median1YReturn": -23
       },
       {
         "sector": "Microfinance Institutions",
         "noOfCompanies": 5,
-        "totalMarketCap": 29652,
-        "medianMarketCap": 2529,
+        "totalMarketCap": 29667,
+        "medianMarketCap": 2533,
         "medianPE": 13,
         "wtdAvgSalesGrowth": 0,
         "wtdAvgOPM": 50,
@@ -73757,47 +73757,47 @@
         "wtdAvgSalesGrowth": 52,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 47,
-        "median1YReturn": -46
+        "median1YReturn": -47
       },
       {
         "sector": "Non Banking Financial Company (NBFC)",
         "noOfCompanies": 101,
-        "totalMarketCap": 1707608,
+        "totalMarketCap": 1706789,
         "medianMarketCap": 481,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 19,
         "wtdAvgOPM": 66,
         "wtdAvgROCE": 11,
-        "median1YReturn": -5
+        "median1YReturn": -6
       },
       {
         "sector": "Offshore Support Solution Drilling",
         "noOfCompanies": 3,
-        "totalMarketCap": 4275,
-        "medianMarketCap": 1604,
+        "totalMarketCap": 4287,
+        "medianMarketCap": 1605,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 16,
         "wtdAvgOPM": 33,
         "wtdAvgROCE": 14,
-        "median1YReturn": 3
+        "median1YReturn": 2
       },
       {
         "sector": "Oil Equipment & Services",
         "noOfCompanies": 6,
-        "totalMarketCap": 7523,
+        "totalMarketCap": 7522,
         "medianMarketCap": 274,
         "medianPE": 17,
         "wtdAvgSalesGrowth": 51,
         "wtdAvgOPM": 24,
         "wtdAvgROCE": 14,
-        "median1YReturn": 26
+        "median1YReturn": 28
       },
       {
         "sector": "Oil Exploration & Production",
         "noOfCompanies": 7,
-        "totalMarketCap": 377965,
-        "medianMarketCap": 3535,
-        "medianPE": 55,
+        "totalMarketCap": 378455,
+        "medianMarketCap": 3538,
+        "medianPE": 56,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 13,
@@ -73806,129 +73806,129 @@
       {
         "sector": "Oil Storage & Transportation",
         "noOfCompanies": 2,
-        "totalMarketCap": 30111,
-        "medianMarketCap": 15055,
+        "totalMarketCap": 30158,
+        "medianMarketCap": 15079,
         "medianPE": 59,
         "wtdAvgSalesGrowth": 22,
         "wtdAvgOPM": 57,
         "wtdAvgROCE": 8,
-        "median1YReturn": -1
+        "median1YReturn": -2
       },
       {
         "sector": "Other Agricultural Products",
         "noOfCompanies": 39,
-        "totalMarketCap": 56949,
+        "totalMarketCap": 56938,
         "medianMarketCap": 411,
         "medianPE": 15,
         "wtdAvgSalesGrowth": 20,
         "wtdAvgOPM": 11,
         "wtdAvgROCE": 15,
-        "median1YReturn": -7
+        "median1YReturn": -4
       },
       {
         "sector": "Other Bank",
         "noOfCompanies": 9,
-        "totalMarketCap": 106378,
-        "medianMarketCap": 2321,
+        "totalMarketCap": 106398,
+        "medianMarketCap": 2322,
         "medianPE": 12,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 42,
         "wtdAvgROCE": 7,
-        "median1YReturn": 6
+        "median1YReturn": 1
       },
       {
         "sector": "Other Beverages",
         "noOfCompanies": 2,
-        "totalMarketCap": 142543,
-        "medianMarketCap": 71272,
+        "totalMarketCap": 142378,
+        "medianMarketCap": 71189,
         "medianPE": 79,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 23,
         "wtdAvgROCE": 20,
-        "median1YReturn": -13
+        "median1YReturn": -12
       },
       {
         "sector": "Other Capital Market related Services",
         "noOfCompanies": 2,
-        "totalMarketCap": 2058,
-        "medianMarketCap": 1029,
+        "totalMarketCap": 2060,
+        "medianMarketCap": 1030,
         "medianPE": 39,
         "wtdAvgSalesGrowth": -16,
         "wtdAvgOPM": 39,
         "wtdAvgROCE": 15,
-        "median1YReturn": 101
+        "median1YReturn": 97
       },
       {
         "sector": "Other Construction Materials",
         "noOfCompanies": 13,
-        "totalMarketCap": 13103,
+        "totalMarketCap": 13114,
         "medianMarketCap": 443,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 11,
         "wtdAvgOPM": 7,
         "wtdAvgROCE": 15,
-        "median1YReturn": -10
+        "median1YReturn": -11
       },
       {
         "sector": "Other Consumer Services",
         "noOfCompanies": 5,
-        "totalMarketCap": 7198,
+        "totalMarketCap": 7207,
         "medianMarketCap": 461,
         "medianPE": 14,
         "wtdAvgSalesGrowth": 25,
         "wtdAvgOPM": 5,
         "wtdAvgROCE": 17,
-        "median1YReturn": 16
+        "median1YReturn": 13
       },
       {
         "sector": "Other Electrical Equipment",
-        "noOfCompanies": 61,
-        "totalMarketCap": 345245,
-        "medianMarketCap": 783,
-        "medianPE": 24,
+        "noOfCompanies": 62,
+        "totalMarketCap": 345190,
+        "medianMarketCap": 769,
+        "medianPE": 25,
         "wtdAvgSalesGrowth": 53,
         "wtdAvgOPM": 17,
         "wtdAvgROCE": 32,
-        "median1YReturn": -21
+        "median1YReturn": -23
       },
       {
         "sector": "Other Financial Services",
         "noOfCompanies": 31,
-        "totalMarketCap": 69210,
-        "medianMarketCap": 410,
+        "totalMarketCap": 69150,
+        "medianMarketCap": 405,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 15,
         "wtdAvgOPM": 22,
         "wtdAvgROCE": 17,
-        "median1YReturn": -10
+        "median1YReturn": -12
       },
       {
         "sector": "Other Food Products",
         "noOfCompanies": 28,
-        "totalMarketCap": 39954,
+        "totalMarketCap": 39936,
         "medianMarketCap": 270,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 19,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 23,
-        "median1YReturn": 23
+        "median1YReturn": 24
       },
       {
         "sector": "Other Industrial Products",
         "noOfCompanies": 32,
-        "totalMarketCap": 79459,
-        "medianMarketCap": 538,
+        "totalMarketCap": 79475,
+        "medianMarketCap": 537,
         "medianPE": 26,
         "wtdAvgSalesGrowth": 23,
         "wtdAvgOPM": 17,
         "wtdAvgROCE": 38,
-        "median1YReturn": 9
+        "median1YReturn": 7
       },
       {
         "sector": "Other Telecom Services",
         "noOfCompanies": 4,
-        "totalMarketCap": 12975,
-        "medianMarketCap": 2385,
+        "totalMarketCap": 12956,
+        "medianMarketCap": 2386,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 12,
@@ -73938,19 +73938,19 @@
       {
         "sector": "Other Textile Products",
         "noOfCompanies": 118,
-        "totalMarketCap": 188181,
-        "medianMarketCap": 346,
+        "totalMarketCap": 188189,
+        "medianMarketCap": 347,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 3,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 12,
-        "median1YReturn": -2
+        "median1YReturn": -4
       },
       {
         "sector": "Packaged Foods",
         "noOfCompanies": 29,
-        "totalMarketCap": 415659,
-        "medianMarketCap": 689,
+        "totalMarketCap": 415942,
+        "medianMarketCap": 691,
         "medianPE": 43,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 18,
@@ -73960,8 +73960,8 @@
       {
         "sector": "Packaging",
         "noOfCompanies": 48,
-        "totalMarketCap": 52648,
-        "medianMarketCap": 531,
+        "totalMarketCap": 52661,
+        "medianMarketCap": 534,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 7,
         "wtdAvgOPM": 11,
@@ -73971,30 +73971,30 @@
       {
         "sector": "Paints",
         "noOfCompanies": 9,
-        "totalMarketCap": 315205,
-        "medianMarketCap": 4964,
+        "totalMarketCap": 315334,
+        "medianMarketCap": 4959,
         "medianPE": 36,
         "wtdAvgSalesGrowth": 7,
         "wtdAvgOPM": 17,
         "wtdAvgROCE": 24,
-        "median1YReturn": -10
+        "median1YReturn": -9
       },
       {
         "sector": "Paper & Paper Products",
         "noOfCompanies": 26,
-        "totalMarketCap": 24232,
-        "medianMarketCap": 343,
+        "totalMarketCap": 24274,
+        "medianMarketCap": 359,
         "medianPE": 17,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 4,
-        "median1YReturn": -17
+        "median1YReturn": -16
       },
       {
         "sector": "Passenger Cars & Utility Vehicles",
         "noOfCompanies": 8,
-        "totalMarketCap": 1016536,
-        "medianMarketCap": 62768,
+        "totalMarketCap": 1016190,
+        "medianMarketCap": 62764,
         "medianPE": 40,
         "wtdAvgSalesGrowth": 9,
         "wtdAvgOPM": 11,
@@ -74004,52 +74004,52 @@
       {
         "sector": "Personal Care",
         "noOfCompanies": 14,
-        "totalMarketCap": 332504,
-        "medianMarketCap": 15375,
+        "totalMarketCap": 332762,
+        "medianMarketCap": 15381,
         "medianPE": 38,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 22,
         "wtdAvgROCE": 49,
-        "median1YReturn": -23
+        "median1YReturn": -22
       },
       {
         "sector": "Pesticides & Agrochemicals",
         "noOfCompanies": 25,
-        "totalMarketCap": 148823,
+        "totalMarketCap": 148728,
         "medianMarketCap": 1551,
-        "medianPE": 20,
+        "medianPE": 21,
         "wtdAvgSalesGrowth": 7,
         "wtdAvgOPM": 16,
         "wtdAvgROCE": 16,
-        "median1YReturn": -26
+        "median1YReturn": -27
       },
       {
         "sector": "Petrochemicals",
         "noOfCompanies": 12,
-        "totalMarketCap": 39076,
-        "medianMarketCap": 1211,
+        "totalMarketCap": 39054,
+        "medianMarketCap": 1204,
         "medianPE": 13,
         "wtdAvgSalesGrowth": 5,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 12,
-        "median1YReturn": 4
+        "median1YReturn": 5
       },
       {
         "sector": "Pharmaceuticals",
         "noOfCompanies": 159,
-        "totalMarketCap": 2639661,
-        "medianMarketCap": 2015,
+        "totalMarketCap": 2641359,
+        "medianMarketCap": 2013,
         "medianPE": 33,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 24,
         "wtdAvgROCE": 21,
-        "median1YReturn": 5
+        "median1YReturn": 6
       },
       {
         "sector": "Pharmacy Retail",
         "noOfCompanies": 2,
-        "totalMarketCap": 13714,
-        "medianMarketCap": 6857,
+        "totalMarketCap": 13746,
+        "medianMarketCap": 6873,
         "medianPE": 42,
         "wtdAvgSalesGrowth": 24,
         "wtdAvgOPM": 6,
@@ -74059,18 +74059,18 @@
       {
         "sector": "Pig Iron",
         "noOfCompanies": 1,
-        "totalMarketCap": 7471,
-        "medianMarketCap": 7471,
+        "totalMarketCap": 7466,
+        "medianMarketCap": 7466,
         "medianPE": 19,
         "wtdAvgSalesGrowth": 3,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 13,
-        "median1YReturn": -11
+        "median1YReturn": -12
       },
       {
         "sector": "Plastic Products - Consumer",
         "noOfCompanies": 9,
-        "totalMarketCap": 28617,
+        "totalMarketCap": 28621,
         "medianMarketCap": 618,
         "medianPE": 33,
         "wtdAvgSalesGrowth": 5,
@@ -74081,7 +74081,7 @@
       {
         "sector": "Plastic Products - Industrial",
         "noOfCompanies": 35,
-        "totalMarketCap": 143694,
+        "totalMarketCap": 144071,
         "medianMarketCap": 295,
         "medianPE": 20,
         "wtdAvgSalesGrowth": 9,
@@ -74092,7 +74092,7 @@
       {
         "sector": "Plywood Boards/ Laminates",
         "noOfCompanies": 13,
-        "totalMarketCap": 34713,
+        "totalMarketCap": 34664,
         "medianMarketCap": 458,
         "medianPE": 34,
         "wtdAvgSalesGrowth": 17,
@@ -74103,19 +74103,19 @@
       {
         "sector": "Port & Port services",
         "noOfCompanies": 4,
-        "totalMarketCap": 494319,
-        "medianMarketCap": 42342,
+        "totalMarketCap": 492367,
+        "medianMarketCap": 42337,
         "medianPE": 25,
         "wtdAvgSalesGrowth": 23,
         "wtdAvgOPM": 56,
         "wtdAvgROCE": 14,
-        "median1YReturn": 7
+        "median1YReturn": 8
       },
       {
         "sector": "Power - Transmission",
         "noOfCompanies": 5,
-        "totalMarketCap": 269922,
-        "medianMarketCap": 9370,
+        "totalMarketCap": 270463,
+        "medianMarketCap": 9373,
         "medianPE": 34,
         "wtdAvgSalesGrowth": 6,
         "wtdAvgOPM": 73,
@@ -74125,19 +74125,19 @@
       {
         "sector": "Power Distribution",
         "noOfCompanies": 1,
-        "totalMarketCap": 167645,
-        "medianMarketCap": 167645,
+        "totalMarketCap": 166921,
+        "medianMarketCap": 166921,
         "medianPE": 57,
         "wtdAvgSalesGrowth": 21,
         "wtdAvgOPM": 30,
         "wtdAvgROCE": 10,
-        "median1YReturn": 47
+        "median1YReturn": 46
       },
       {
         "sector": "Power Generation",
         "noOfCompanies": 28,
-        "totalMarketCap": 934288,
-        "medianMarketCap": 7571,
+        "totalMarketCap": 935860,
+        "medianMarketCap": 7573,
         "medianPE": 20,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 34,
@@ -74147,8 +74147,8 @@
       {
         "sector": "Power Trading",
         "noOfCompanies": 1,
-        "totalMarketCap": 4421,
-        "medianMarketCap": 4421,
+        "totalMarketCap": 4419,
+        "medianMarketCap": 4419,
         "medianPE": 9,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 4,
@@ -74158,19 +74158,19 @@
       {
         "sector": "Precious Metals",
         "noOfCompanies": 2,
-        "totalMarketCap": 15312,
-        "medianMarketCap": 7656,
+        "totalMarketCap": 15285,
+        "medianMarketCap": 7643,
         "medianPE": 36,
         "wtdAvgSalesGrowth": 42,
         "wtdAvgOPM": 0,
         "wtdAvgROCE": 49,
-        "median1YReturn": 34
+        "median1YReturn": 36
       },
       {
         "sector": "Print Media",
         "noOfCompanies": 5,
-        "totalMarketCap": 6099,
-        "medianMarketCap": 762,
+        "totalMarketCap": 6135,
+        "medianMarketCap": 760,
         "medianPE": 7,
         "wtdAvgSalesGrowth": 10,
         "wtdAvgOPM": 12,
@@ -74180,7 +74180,7 @@
       {
         "sector": "Printing & Publication",
         "noOfCompanies": 4,
-        "totalMarketCap": 5249,
+        "totalMarketCap": 5250,
         "medianMarketCap": 454,
         "medianPE": 9,
         "wtdAvgSalesGrowth": 13,
@@ -74191,41 +74191,41 @@
       {
         "sector": "Printing Inks",
         "noOfCompanies": 1,
-        "totalMarketCap": 547,
-        "medianMarketCap": 547,
+        "totalMarketCap": 541,
+        "medianMarketCap": 541,
         "medianPE": 18,
         "wtdAvgSalesGrowth": 12,
         "wtdAvgOPM": 6,
         "wtdAvgROCE": 6,
-        "median1YReturn": 18
+        "median1YReturn": 19
       },
       {
         "sector": "Private Sector Bank",
         "noOfCompanies": 20,
-        "totalMarketCap": 3491887,
-        "medianMarketCap": 44289,
+        "totalMarketCap": 3487783,
+        "medianMarketCap": 44377,
         "medianPE": 13,
         "wtdAvgSalesGrowth": 6,
         "wtdAvgOPM": 44,
         "wtdAvgROCE": 7,
-        "median1YReturn": 20
+        "median1YReturn": 14
       },
       {
         "sector": "Public Sector Bank",
         "noOfCompanies": 12,
-        "totalMarketCap": 1783544,
-        "medianMarketCap": 86372,
+        "totalMarketCap": 1782506,
+        "medianMarketCap": 86467,
         "medianPE": 7,
         "wtdAvgSalesGrowth": 6,
         "wtdAvgOPM": 60,
         "wtdAvgROCE": 6,
-        "median1YReturn": 2
+        "median1YReturn": -1
       },
       {
         "sector": "Railway Wagons",
         "noOfCompanies": 3,
-        "totalMarketCap": 22824,
-        "medianMarketCap": 8402,
+        "totalMarketCap": 22831,
+        "medianMarketCap": 8408,
         "medianPE": 47,
         "wtdAvgSalesGrowth": -12,
         "wtdAvgOPM": 10,
@@ -74235,24 +74235,24 @@
       {
         "sector": "Ratings",
         "noOfCompanies": 2,
-        "totalMarketCap": 9213,
-        "medianMarketCap": 4606,
+        "totalMarketCap": 9205,
+        "medianMarketCap": 4602,
         "medianPE": 25,
         "wtdAvgSalesGrowth": 22,
         "wtdAvgOPM": 38,
         "wtdAvgROCE": 25,
-        "median1YReturn": -12
+        "median1YReturn": -13
       },
       {
         "sector": "Real Estate Investment Trusts (REITs)",
         "noOfCompanies": 8,
-        "totalMarketCap": 211976,
-        "medianMarketCap": 29522,
+        "totalMarketCap": 212082,
+        "medianMarketCap": 29533,
         "medianPE": 63,
         "wtdAvgSalesGrowth": 22,
         "wtdAvgOPM": 75,
         "wtdAvgROCE": 5,
-        "median1YReturn": 2
+        "median1YReturn": 1
       },
       {
         "sector": "Real Estate related services",
@@ -74263,36 +74263,36 @@
         "wtdAvgSalesGrowth": 42,
         "wtdAvgOPM": 63,
         "wtdAvgROCE": 10,
-        "median1YReturn": -36
+        "median1YReturn": -35
       },
       {
         "sector": "Refineries & Marketing",
         "noOfCompanies": 8,
-        "totalMarketCap": 2066480,
-        "medianMarketCap": 52250,
+        "totalMarketCap": 2065008,
+        "medianMarketCap": 52300,
         "medianPE": 8,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 13,
-        "median1YReturn": 5
+        "median1YReturn": 1
       },
       {
         "sector": "Residential, Commercial Projects",
         "noOfCompanies": 93,
-        "totalMarketCap": 732014,
-        "medianMarketCap": 924,
+        "totalMarketCap": 731877,
+        "medianMarketCap": 928,
         "medianPE": 23,
         "wtdAvgSalesGrowth": 21,
         "wtdAvgOPM": 21,
         "wtdAvgROCE": 10,
-        "median1YReturn": -20
+        "median1YReturn": -22
       },
       {
         "sector": "Restaurants",
         "noOfCompanies": 12,
-        "totalMarketCap": 84950,
-        "medianMarketCap": 4467,
-        "medianPE": 71,
+        "totalMarketCap": 84999,
+        "medianMarketCap": 4460,
+        "medianPE": 72,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 18,
         "wtdAvgROCE": 15,
@@ -74301,18 +74301,18 @@
       {
         "sector": "Road AssetsToll, Annuity, Hybrid-Annuity",
         "noOfCompanies": 14,
-        "totalMarketCap": 128715,
-        "medianMarketCap": 7125,
+        "totalMarketCap": 128759,
+        "medianMarketCap": 7130,
         "medianPE": 20,
         "wtdAvgSalesGrowth": 39,
         "wtdAvgOPM": 67,
         "wtdAvgROCE": 7,
-        "median1YReturn": 5
+        "median1YReturn": 4
       },
       {
         "sector": "Road Transport",
         "noOfCompanies": 4,
-        "totalMarketCap": 1400,
+        "totalMarketCap": 1396,
         "medianMarketCap": 267,
         "medianPE": 14,
         "wtdAvgSalesGrowth": 35,
@@ -74323,51 +74323,51 @@
       {
         "sector": "Rubber",
         "noOfCompanies": 12,
-        "totalMarketCap": 9988,
+        "totalMarketCap": 9998,
         "medianMarketCap": 320,
         "medianPE": 18,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 12,
         "wtdAvgROCE": 19,
-        "median1YReturn": -7
+        "median1YReturn": -8
       },
       {
         "sector": "Sanitary Ware",
         "noOfCompanies": 2,
-        "totalMarketCap": 7848,
-        "medianMarketCap": 3924,
+        "totalMarketCap": 7840,
+        "medianMarketCap": 3920,
         "medianPE": 31,
         "wtdAvgSalesGrowth": 7,
         "wtdAvgOPM": 10,
         "wtdAvgROCE": 17,
-        "median1YReturn": -35
+        "median1YReturn": -36
       },
       {
         "sector": "Seafood",
         "noOfCompanies": 7,
-        "totalMarketCap": 2471,
+        "totalMarketCap": 2474,
         "medianMarketCap": 182,
         "medianPE": 11,
         "wtdAvgSalesGrowth": 26,
         "wtdAvgOPM": 6,
         "wtdAvgROCE": 12,
-        "median1YReturn": 1
+        "median1YReturn": 0
       },
       {
         "sector": "Ship Building & Allied Services",
         "noOfCompanies": 4,
-        "totalMarketCap": 130822,
-        "medianMarketCap": 23889,
+        "totalMarketCap": 130711,
+        "medianMarketCap": 23853,
         "medianPE": 44,
         "wtdAvgSalesGrowth": 8,
         "wtdAvgOPM": 16,
-        "wtdAvgROCE": 25,
-        "median1YReturn": -9
+        "wtdAvgROCE": 26,
+        "median1YReturn": -8
       },
       {
         "sector": "Shipping",
         "noOfCompanies": 9,
-        "totalMarketCap": 53515,
+        "totalMarketCap": 53517,
         "medianMarketCap": 691,
         "medianPE": 11,
         "wtdAvgSalesGrowth": 22,
@@ -74378,64 +74378,64 @@
       {
         "sector": "Software Products",
         "noOfCompanies": 26,
-        "totalMarketCap": 121601,
-        "medianMarketCap": 431,
+        "totalMarketCap": 121226,
+        "medianMarketCap": 432,
         "medianPE": 30,
         "wtdAvgSalesGrowth": 23,
         "wtdAvgOPM": 31,
         "wtdAvgROCE": 39,
-        "median1YReturn": -32
+        "median1YReturn": -33
       },
       {
         "sector": "Speciality Retail",
         "noOfCompanies": 23,
-        "totalMarketCap": 330792,
-        "medianMarketCap": 2699,
+        "totalMarketCap": 330741,
+        "medianMarketCap": 2706,
         "medianPE": 39,
         "wtdAvgSalesGrowth": 16,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 19,
-        "median1YReturn": -25
+        "median1YReturn": -24
       },
       {
         "sector": "Specialty Chemicals",
-        "noOfCompanies": 95,
-        "totalMarketCap": 546217,
-        "medianMarketCap": 979,
+        "noOfCompanies": 94,
+        "totalMarketCap": 545619,
+        "medianMarketCap": 992,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 14,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 19,
-        "median1YReturn": -3
+        "median1YReturn": -1
       },
       {
         "sector": "Sponge Iron",
         "noOfCompanies": 6,
-        "totalMarketCap": 23491,
-        "medianMarketCap": 345,
+        "totalMarketCap": 23495,
+        "medianMarketCap": 346,
         "medianPE": 11,
         "wtdAvgSalesGrowth": 7,
         "wtdAvgOPM": 6,
         "wtdAvgROCE": 2,
-        "median1YReturn": -18
+        "median1YReturn": -16
       },
       {
         "sector": "Stationary",
         "noOfCompanies": 5,
-        "totalMarketCap": 19092,
-        "medianMarketCap": 2462,
+        "totalMarketCap": 19083,
+        "medianMarketCap": 2458,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 9,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 21,
-        "median1YReturn": -23
+        "median1YReturn": -24
       },
       {
         "sector": "Stockbroking & Allied",
         "noOfCompanies": 32,
-        "totalMarketCap": 324727,
-        "medianMarketCap": 977,
-        "medianPE": 20,
+        "totalMarketCap": 324094,
+        "medianMarketCap": 979,
+        "medianPE": 19,
         "wtdAvgSalesGrowth": 24,
         "wtdAvgOPM": 43,
         "wtdAvgROCE": 23,
@@ -74444,19 +74444,19 @@
       {
         "sector": "Sugar",
         "noOfCompanies": 32,
-        "totalMarketCap": 51374,
+        "totalMarketCap": 51382,
         "medianMarketCap": 581,
         "medianPE": 18,
         "wtdAvgSalesGrowth": 1,
         "wtdAvgOPM": 7,
         "wtdAvgROCE": 7,
-        "median1YReturn": 5
+        "median1YReturn": 3
       },
       {
         "sector": "Tea & Coffee",
         "noOfCompanies": 17,
-        "totalMarketCap": 115649,
-        "medianMarketCap": 217,
+        "totalMarketCap": 115484,
+        "medianMarketCap": 219,
         "medianPE": 16,
         "wtdAvgSalesGrowth": 15,
         "wtdAvgOPM": 12,
@@ -74466,63 +74466,63 @@
       {
         "sector": "Telecom - Equipment & Accessories",
         "noOfCompanies": 11,
-        "totalMarketCap": 92332,
+        "totalMarketCap": 92349,
         "medianMarketCap": 1900,
         "medianPE": 70,
         "wtdAvgSalesGrowth": -19,
         "wtdAvgOPM": 6,
         "wtdAvgROCE": 5,
-        "median1YReturn": 14
+        "median1YReturn": 16
       },
       {
         "sector": "Telecom - Cellular & Fixed line services",
         "noOfCompanies": 7,
-        "totalMarketCap": 1442496,
-        "medianMarketCap": 49006,
+        "totalMarketCap": 1442188,
+        "medianMarketCap": 48992,
         "medianPE": 40,
         "wtdAvgSalesGrowth": 15,
         "wtdAvgOPM": 51,
         "wtdAvgROCE": 16,
-        "median1YReturn": -11
+        "median1YReturn": -10
       },
       {
         "sector": "Telecom - Infrastructure",
         "noOfCompanies": 9,
-        "totalMarketCap": 203514,
+        "totalMarketCap": 203489,
         "medianMarketCap": 3245,
         "medianPE": 14,
         "wtdAvgSalesGrowth": 16,
         "wtdAvgOPM": 43,
         "wtdAvgROCE": 15,
-        "median1YReturn": -23
+        "median1YReturn": -24
       },
       {
         "sector": "Tour, Travel Related Services",
         "noOfCompanies": 11,
-        "totalMarketCap": 85908,
+        "totalMarketCap": 85865,
         "medianMarketCap": 4714,
         "medianPE": 37,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 33,
-        "median1YReturn": -37
+        "median1YReturn": -38
       },
       {
         "sector": "Tractors",
         "noOfCompanies": 2,
-        "totalMarketCap": 33915,
-        "medianMarketCap": 16958,
+        "totalMarketCap": 33911,
+        "medianMarketCap": 16956,
         "medianPE": 27,
         "wtdAvgSalesGrowth": 20,
         "wtdAvgOPM": 13,
         "wtdAvgROCE": 14,
-        "median1YReturn": -24
+        "median1YReturn": -25
       },
       {
         "sector": "Trading - Auto components",
         "noOfCompanies": 2,
-        "totalMarketCap": 1464,
-        "medianMarketCap": 732,
+        "totalMarketCap": 1463,
+        "medianMarketCap": 731,
         "medianPE": 10,
         "wtdAvgSalesGrowth": 12,
         "wtdAvgOPM": 7,
@@ -74532,7 +74532,7 @@
       {
         "sector": "Trading - Chemicals",
         "noOfCompanies": 9,
-        "totalMarketCap": 3097,
+        "totalMarketCap": 3096,
         "medianMarketCap": 307,
         "medianPE": 25,
         "wtdAvgSalesGrowth": 3,
@@ -74543,40 +74543,40 @@
       {
         "sector": "Trading - Gas",
         "noOfCompanies": 1,
-        "totalMarketCap": 46762,
-        "medianMarketCap": 46762,
+        "totalMarketCap": 46746,
+        "medianMarketCap": 46746,
         "medianPE": 37,
         "wtdAvgSalesGrowth": 30,
         "wtdAvgOPM": 21,
         "wtdAvgROCE": 13,
-        "median1YReturn": 65
+        "median1YReturn": 66
       },
       {
         "sector": "Trading - Metals",
         "noOfCompanies": 8,
-        "totalMarketCap": 23853,
+        "totalMarketCap": 23839,
         "medianMarketCap": 872,
         "medianPE": 45,
         "wtdAvgSalesGrowth": 71,
         "wtdAvgOPM": 2,
         "wtdAvgROCE": 8,
-        "median1YReturn": 10
+        "median1YReturn": 9
       },
       {
         "sector": "Trading - Minerals",
         "noOfCompanies": 2,
-        "totalMarketCap": 360529,
-        "medianMarketCap": 180265,
+        "totalMarketCap": 359994,
+        "medianMarketCap": 179997,
         "medianPE": 103,
         "wtdAvgSalesGrowth": 18,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 6,
-        "median1YReturn": 62
+        "median1YReturn": 68
       },
       {
         "sector": "Trading - Textile Products",
         "noOfCompanies": 3,
-        "totalMarketCap": 5094,
+        "totalMarketCap": 5092,
         "medianMarketCap": 219,
         "medianPE": 28,
         "wtdAvgSalesGrowth": 5,
@@ -74587,84 +74587,84 @@
       {
         "sector": "Trading & Distributors",
         "noOfCompanies": 49,
-        "totalMarketCap": 58669,
+        "totalMarketCap": 58720,
         "medianMarketCap": 229,
         "medianPE": 23,
         "wtdAvgSalesGrowth": 35,
         "wtdAvgOPM": 2,
         "wtdAvgROCE": 15,
-        "median1YReturn": 1
+        "median1YReturn": 2
       },
       {
         "sector": "Transport Related Services",
         "noOfCompanies": 3,
-        "totalMarketCap": 14074,
-        "medianMarketCap": 2927,
+        "totalMarketCap": 14076,
+        "medianMarketCap": 2920,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 98,
         "wtdAvgOPM": 28,
         "wtdAvgROCE": 21,
-        "median1YReturn": 9
+        "median1YReturn": 8
       },
       {
         "sector": "TV Broadcasting & Software Production",
         "noOfCompanies": 10,
-        "totalMarketCap": 38347,
-        "medianMarketCap": 663,
+        "totalMarketCap": 38412,
+        "medianMarketCap": 664,
         "medianPE": 25,
         "wtdAvgSalesGrowth": 4,
         "wtdAvgOPM": 13,
         "wtdAvgROCE": 10,
-        "median1YReturn": -30
+        "median1YReturn": -32
       },
       {
         "sector": "Tyres & Rubber Products",
         "noOfCompanies": 14,
-        "totalMarketCap": 148038,
-        "medianMarketCap": 1155,
+        "totalMarketCap": 148056,
+        "medianMarketCap": 1159,
         "medianPE": 24,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 14,
-        "median1YReturn": -13
+        "median1YReturn": -17
       },
       {
         "sector": "Waste Management",
         "noOfCompanies": 13,
-        "totalMarketCap": 11010,
+        "totalMarketCap": 11001,
         "medianMarketCap": 651,
         "medianPE": 22,
         "wtdAvgSalesGrowth": 13,
         "wtdAvgOPM": 15,
         "wtdAvgROCE": 19,
-        "median1YReturn": -28
+        "median1YReturn": -29
       },
       {
         "sector": "Water Supply & Management",
         "noOfCompanies": 8,
-        "totalMarketCap": 24293,
-        "medianMarketCap": 1325,
+        "totalMarketCap": 24281,
+        "medianMarketCap": 1324,
         "medianPE": 20,
         "wtdAvgSalesGrowth": 19,
         "wtdAvgOPM": 14,
         "wtdAvgROCE": 19,
-        "median1YReturn": -9
+        "median1YReturn": -8
       },
       {
         "sector": "Web based media and service",
         "noOfCompanies": 5,
-        "totalMarketCap": 1652,
+        "totalMarketCap": 1650,
         "medianMarketCap": 299,
         "medianPE": 24,
         "wtdAvgSalesGrowth": 6,
         "wtdAvgOPM": 5,
         "wtdAvgROCE": 17,
-        "median1YReturn": -13
+        "median1YReturn": -14
       },
       {
         "sector": "Wellness",
         "noOfCompanies": 4,
-        "totalMarketCap": 5333,
+        "totalMarketCap": 5328,
         "medianMarketCap": 311,
         "medianPE": 16,
         "wtdAvgSalesGrowth": 43,
@@ -74681,7 +74681,7 @@
         "wtdAvgSalesGrowth": 57,
         "wtdAvgOPM": 58,
         "wtdAvgROCE": 69,
-        "median1YReturn": 88
+        "median1YReturn": 92
       }
     ]
   }
